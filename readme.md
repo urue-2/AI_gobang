@@ -11,13 +11,12 @@
 
 ### <font color=white>To  Play</font>
     With α_β_pruning method with GUI : run main.py
-    With reinforence learning model : run lab4.mcts_ai.py
 
 ### <font color=white>To Read The code</font>
 
     GUI.py : GUI Graphical User Interface for this game
 
-    1)-4) tasks in the requirement file corresponing to lab1-lab4:
+    1)-3) labs
 
     1) Using supervised learning to identify the position
 
@@ -35,9 +34,6 @@
         ANN_next_move.py : using ANN to generate next move
         generate_train_gameCNN_data : prepare data for CNN
 
-    4) Reinforence learning:
-        policy_calue_net : network to evaluate 
-        mcts_pure : MCTS tree only
-        mcts_gobangmodel : reinforence leaning model with 
+
 
         
