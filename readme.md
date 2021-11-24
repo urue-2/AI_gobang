@@ -1,8 +1,8 @@
-#<font color=white>Readme</font>
+# <font color=white>Readme</font>
 
-##<font color=white>GoBang Game</font>
+## <font color=white>GoBang Game</font>
 
-###<font color=white> Explanation</font>
+### <font color=white> Explanation</font>
 
     1.This is a gobang game with GUI
     2.Human always first with white piece,AI with black piece
